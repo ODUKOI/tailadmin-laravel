@@ -19,23 +19,7 @@ TailAdmin Inertia
 </p>
 <p align="center">
 
-<a href="https://ko-fi.com/sinanaydogan" target="_blank">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg">
-</a>
 
-</p>
-
-<p align="center">
-<a href="https://www.buymeacoffee.com/sinanaydogan">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=sinanaydogan&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff">
-</a>
-</p>
-
-<p align="center">
-<a href="https://discord.gg/TnjA2GqYmw">
-    <img src="public/img/demo/discord.svg" height="40">
-</a>
-</p>
 
 
 Requirements
