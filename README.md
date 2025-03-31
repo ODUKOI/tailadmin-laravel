@@ -149,25 +149,4 @@ If you need to help more than this documentation:
 - [Vue](https://vuejs.org/)
 - [Fontawesome](https://fontawesome.com/)
 
-### Minor External Sources
 
-Please see package.json
-
----
-License
-------
-The TailAdmin is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-
-<p align="center">
-
-<a href="https://ko-fi.com/sinanaydogan" target="_blank">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg">
-</a>
-
-</p>
-
-<p align="center">
-<a href="https://www.buymeacoffee.com/sinanaydogan">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=sinanaydogan&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff">
-</a>
-</p>
